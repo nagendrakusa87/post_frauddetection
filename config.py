@@ -1,0 +1,5 @@
+# Configuration settings for API keys and thresholds
+
+API_KEY = 'your_api_key_here'
+API_SECRET = 'your_api_secret_here'
+THRESHOLD = 0.75
